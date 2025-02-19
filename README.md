@@ -1,5 +1,4 @@
-markdown
-Copy
+
 # Submission Reminder App
 
 This is a simple shell script application that reminds students about upcoming assignment deadlines. The application checks a list of students and their submission statuses, then sends reminders to those who haven't submitted their assignments yet.
@@ -18,7 +17,6 @@ submission_reminder_{yourName}/
 │ └── config.env
 └── startup.sh
 
-Copy
 
 ## Files
 
@@ -42,8 +40,7 @@ Copy
    git clone https://github.com/yourUsername/submission_reminder_app_githusername.git
 Navigate to the Project Directory:
 
-bash
-Copy
+
 cd submission_reminder_app_githusername
 Run the create_environment.sh Script:
 This script will set up the directory structure and populate the files.
@@ -96,3 +93,6 @@ You can change the assignment name and days remaining by editing the config/conf
 Copy
 ASSIGNMENT="Your Assignment Name"
 DAYS_REMAINING=5
+=======
+
+>>>>>>> bac2e6dac64d5236f2de31c268b971b7c1e264b5
